@@ -34,7 +34,7 @@ NGenTau		0  -1
 ***NRecoMuon1	      1   1   
 ***NRecoJet1          1   -1
 ***NRecoFirstLeadingJet       1   -1   ///only 0 or 1
-***NRecoBJet          2   2
+***NRecoBJet          0   0
 ***METCut             1   -1   ///met cut
 NRecoTau1          0   -1
 NDiTauCombinations	   0   -1
